@@ -3,18 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pboif2.pkg10119084.latihan17.programtunjangan;
+package pboif2.pkg10119075.latihan17.programtunjangan;
 
 import java.util.Scanner;
 
 /**
  * @author  
- * Nama  : Muhammad Idris Merdefi
+ * Nama  : Aditiya Musthafa Kamil
  * Kelas : PBOIF2
- * NIM   : 10119084
- * Deskripsi Program : Program ini berisi program untuk menampilkan Program Tunjangan
+ * NIM   : 10119075
+ * Deskripsi Program : Program ini berisi program yang menampilkan Program Tunjangan
  **/
-public class PBOIF210119084Latihan17ProgramTunjangan {
+public class PBOIF210119075Latihan17ProgramTunjangan {
 
     /**
      * @param args the command line arguments
@@ -43,7 +43,7 @@ public class PBOIF210119084Latihan17ProgramTunjangan {
         System.out.println("Gaji Pokok               : " + gaji);
         System.out.println("Tunjangan              : " + tunjangan);
         System.out.println("Gaji Total             : " + gajiTotal);
-        System.out.println("(Developed by : Muhammad Idris Merdefi)");
+        System.out.println("(Developed by : Aditiya Musthafa Kamil)");
         
         
         
